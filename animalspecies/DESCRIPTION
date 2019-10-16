@@ -1,0 +1,12 @@
+Package: animalspecies
+Type: Package
+Title: For any animal name in the dataset the function animal_spec would give all the available data for the requested animal.
+Version: 0.1.0
+Author: Dr Alida Herbst
+Maintainer: The package maintainer <alidaherbst55@gmail.com>
+Description: The function animal_spec need two inputs, namely an animal name and the second variable is a specie name
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
+RoxygenNote: 6.1.1
